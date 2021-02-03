@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
+  "scripts": {
+    "send": "node src/index.js"
+  },
   "dependencies": {
     "dotenv": "^8.2.0",
     "node-fetch": "^2.6.1",
