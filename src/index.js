@@ -15,7 +15,7 @@ solvedTickets().then((tickets) => {
     if (username) {
       setTimeout(async () => {
         const response = await sendMail({
-          username: 'ti.suporte9',
+          username,
           protocolo,
         });
         console.log(response);
