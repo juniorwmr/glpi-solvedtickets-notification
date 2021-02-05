@@ -30,7 +30,7 @@ $ cd glpi-solvedtickets-notification
 $ npm install
 
 # Execute a aplicação em modo de desenvolvimento
-$ npm start
+$ npm send
 
 ```
 
