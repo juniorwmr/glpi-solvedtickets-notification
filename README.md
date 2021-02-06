@@ -7,7 +7,7 @@
 <p align="center"></p>
 <h1 align="center">
     <a href="https://nodejs.org/en/">🔗 Nodejs</a>
-    <a href="https://www.sqlite.org/">✉️ Nodemailer</a>
+    <a href="https://nodemailer.com/">✉️ Nodemailer</a>
 </h1>
 <p align="center">🚀 O projeto foi desenvolvido com intuito de auxiliar o suporte técnico nas notificações via e-mail para usuários que demorarem a aprovar as soluções dos chamados.</p>
 
